@@ -1,0 +1,10 @@
+
+This dataset unveils the multifaceted landscape of accommodations, revealing details that guide travelers in choosing their ideal stay. The data encompasses pricing, 
+capacity, room features, and guest satisfaction ratings. From intimate lodgings to spacious abodes, the accommodations cater to various group sizes and preferences. 
+Attributes such as cleanliness, proximity to city centers and metro stations, attraction and restaurant indices, and more, come together to paint a comprehensive picture 
+of each stay's offering. The dataset further distinguishes between room types, including entire homes, private rooms, and shared spaces. Guest satisfaction, denoted as 
+"Excellent," "Good," or "Average," provides an additional dimension of insight, representing the culmination of travelers' experiences. This dataset encapsulates the diverse 
+tapestry of accommodations, allowing travelers to navigate and choose their perfect lodging based on a plethora of attributes and guest experiences.
+
+City: Amsterdam, Athens, Barcelona, Berlin, Budapest, Lisbon, Paris, Rome and Vienna.
+Superhost: A Superhost is someone who goes above and beyond in their hosting duties
